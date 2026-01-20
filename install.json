@@ -32,7 +32,7 @@
   "id" : "mod-graphql-1.13.1",
   "action" : "enable"
 }, {
-  "id" : "okapi-6.1.4",
+  "id" : "okapi-6.1.5",
   "action" : "enable"
 }, {
   "id" : "folio_developer-10.0.2",
@@ -47,7 +47,7 @@
   "id" : "folio_plugin-find-license-12.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-event-config-2.9.0",
+  "id" : "mod-event-config-2.9.1",
   "action" : "enable"
 }, {
   "id" : "mod-source-record-storage-5.10.15",
@@ -59,7 +59,7 @@
   "id" : "folio_tags-9.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-organizations-storage-4.9.1",
+  "id" : "mod-organizations-storage-4.9.2",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-contact-6.0.0",
@@ -68,16 +68,16 @@
   "id" : "folio_plugin-find-interface-6.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-storage-6.0.0",
+  "id" : "mod-invoice-storage-6.0.1",
   "action" : "enable"
 }, {
   "id" : "mod-erm-usage-5.1.1",
   "action" : "enable"
 }, {
-  "id" : "mod-login-7.12.3",
+  "id" : "mod-login-7.12.4",
   "action" : "enable"
 }, {
-  "id" : "mod-pubsub-2.16.2",
+  "id" : "mod-pubsub-2.16.3",
   "action" : "enable"
 }, {
   "id" : "mod-password-validator-3.4.0",
@@ -89,7 +89,7 @@
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-di-converter-storage-2.4.2",
+  "id" : "mod-di-converter-storage-2.4.3",
   "action" : "enable"
 }, {
   "id" : "mod-service-interaction-4.2.3",
@@ -125,7 +125,7 @@
   "id" : "edge-erm-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "edge-orders-3.2.2",
+  "id" : "edge-orders-3.2.3",
   "action" : "enable"
 }, {
   "id" : "mod-calendar-3.3.1",
@@ -146,19 +146,19 @@
   "id" : "folio_tenant-settings-10.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.4.1",
+  "id" : "mod-circulation-storage-17.4.2",
   "action" : "enable"
 }, {
-  "id" : "mod-patron-blocks-1.12.2",
+  "id" : "mod-patron-blocks-1.12.3",
   "action" : "enable"
 }, {
-  "id" : "mod-template-engine-1.22.0",
+  "id" : "mod-template-engine-1.22.1",
   "action" : "enable"
 }, {
   "id" : "mod-email-1.19.1",
   "action" : "enable"
 }, {
-  "id" : "mod-users-bl-7.10.3",
+  "id" : "mod-users-bl-7.10.4",
   "action" : "enable"
 }, {
   "id" : "folio_users-12.1.16",
@@ -173,10 +173,10 @@
   "id" : "folio_stripes-smart-components-10.0.4",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-storage-8.8.4",
+  "id" : "mod-finance-storage-8.8.5",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-13.9.5",
+  "id" : "mod-orders-storage-13.9.6",
   "action" : "enable"
 }, {
   "id" : "mod-login-saml-2.9.5",
@@ -191,13 +191,13 @@
   "id" : "edge-oai-pmh-2.11.0",
   "action" : "enable"
 }, {
-  "id" : "mod-organizations-2.1.0",
+  "id" : "mod-organizations-2.1.1",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-5.1.1",
+  "id" : "mod-finance-5.1.2",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.10.2",
@@ -215,7 +215,7 @@
   "id" : "edge-connexion-1.4.1",
   "action" : "enable"
 }, {
-  "id" : "mod-courses-1.4.12",
+  "id" : "mod-courses-1.4.13",
   "action" : "enable"
 }, {
   "id" : "folio_courses-7.0.3",
@@ -227,7 +227,7 @@
   "id" : "folio_eholdings-11.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.3.5",
+  "id" : "mod-data-import-3.3.6",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.2",
@@ -239,10 +239,10 @@
   "id" : "mod-settings-1.2.0",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.0.14",
+  "id" : "folio_stripes-core-11.0.15",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.0.8",
+  "id" : "folio_stripes-inventory-components-2.0.9",
   "action" : "enable"
 }, {
   "id" : "mod-reporting-1.3.1",
@@ -254,7 +254,7 @@
   "id" : "mod-entities-links-4.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.1.17",
+  "id" : "mod-inventory-21.1.18",
   "action" : "enable"
 }, {
   "id" : "mod-audit-2.11.3",
@@ -266,7 +266,7 @@
   "id" : "folio_stripes-marc-components-2.0.2",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.0.9",
+  "id" : "mod-search-5.0.10",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.0.2",
@@ -302,7 +302,7 @@
   "id" : "folio_reading-room-2.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-record-specifications-2.0.2",
+  "id" : "mod-record-specifications-2.0.3",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.0.0",
@@ -329,7 +329,7 @@
   "id" : "mod-notify-3.4.1",
   "action" : "enable"
 }, {
-  "id" : "mod-feesfines-19.3.2",
+  "id" : "mod-feesfines-19.3.3",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-24.4.14",
@@ -356,7 +356,7 @@
   "id" : "edge-sip2-3.4.2",
   "action" : "enable"
 }, {
-  "id" : "mod-patron-6.3.3",
+  "id" : "mod-patron-6.3.4",
   "action" : "enable"
 }, {
   "id" : "edge-patron-5.3.1",
@@ -380,7 +380,7 @@
   "id" : "edge-caiasoft-2.4.1",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.0.8",
+  "id" : "mod-orders-13.0.9",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.0",
@@ -407,7 +407,7 @@
   "id" : "folio_plugin-eusage-reports-4.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.0.3",
+  "id" : "mod-invoice-6.0.4",
   "action" : "enable"
 }, {
   "id" : "folio_finance-8.0.4",
@@ -419,7 +419,7 @@
   "id" : "folio_orders-8.0.5",
   "action" : "enable"
 }, {
-  "id" : "mod-gobi-3.0.1",
+  "id" : "mod-gobi-3.0.2",
   "action" : "enable"
 }, {
   "id" : "folio_gobi-settings-4.0.0",
@@ -428,7 +428,7 @@
   "id" : "mod-ebsconet-2.4.0",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.4.10",
+  "id" : "mod-data-export-worker-3.4.11",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.5.2",
@@ -455,10 +455,10 @@
   "id" : "folio_bulk-edit-5.0.2",
   "action" : "enable"
 }, {
-  "id" : "edge-fqm-4.0.1",
+  "id" : "edge-fqm-4.0.2",
   "action" : "enable"
 }, {
-  "id" : "mod-lists-3.1.5",
+  "id" : "mod-lists-3.1.6",
   "action" : "enable"
 }, {
   "id" : "folio_lists-4.0.3",
@@ -467,6 +467,6 @@
   "id" : "mod-dcb-1.3.9",
   "action" : "enable"
 }, {
-  "id" : "edge-dcb-1.3.5",
+  "id" : "edge-dcb-1.3.6",
   "action" : "enable"
 } ]
