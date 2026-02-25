@@ -14,6 +14,10 @@ module.exports = {
   },
 
   modules: {
+    // eureka system infrastructure
+    '@folio/authorization-roles': {},
+    '@folio/authorization-policies': {},
+    '@folio/plugin-select-application': {},
     // user-visible apps
     '@folio/agreements' : {},
     '@folio/bulk-edit': {},
