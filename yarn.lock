@@ -1312,6 +1312,45 @@
     react-router-prop-types "^1.0.4"
     zustand "^5.0.0"
 
+"@folio/authorization-policies@>=1.0.0":
+  version "2.0.1099000000000136"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/authorization-policies/-/authorization-policies-2.0.1099000000000136.tgz#90f5af73b52440d4232b823ea31495e1d522e706"
+  integrity sha512-Aau9xl10KOCdjF3u6I45NsyWf4C8cJj4iS7rVT6SAmqpjtAIPhF6NhWBS0wwdYMNxtvVCXemZSObH5bgaXQkGA==
+  dependencies:
+    "@folio/stripes-authorization-components" "^2.0.0"
+    "@k-int/stripes-kint-components" "^5.0.0"
+    classnames "^2.2.6"
+    compose-function "^3.0.3"
+    final-form "^4.18.5"
+    final-form-arrays "^3.0.1"
+    final-form-focus "^1.1.2"
+    jest-axe "^9.0.0"
+    lodash "^4.17.11"
+    prop-types "^15.6.0"
+    query-string "^6.6.0"
+    react-final-form "^6.3.0"
+    react-final-form-arrays "^3.1.1"
+
+"@folio/authorization-roles@>=1.0.0":
+  version "2.1.1099000000000251"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/authorization-roles/-/authorization-roles-2.1.1099000000000251.tgz#8729c1ec18a447d95f6d8b4e14411d29a8602610"
+  integrity sha512-1ggcVW7PBA2KIXL+fZSP0IFntn8CjOMYjnP1dFfzfdbbGHR/DvTMTv90FVbAgoOfS4B+EMc05KBnMbiOhMjfMQ==
+  dependencies:
+    "@folio/plugin-select-application" "^2.0.0"
+    "@folio/stripes-acq-components" "^7.0.0"
+    "@folio/stripes-authorization-components" "^2.0.1"
+    "@k-int/stripes-kint-components" "^5.0.0"
+    classnames "^2.2.6"
+    compose-function "^3.0.3"
+    final-form "^4.18.5"
+    final-form-arrays "^3.0.1"
+    final-form-focus "^1.1.2"
+    lodash "^4.17.11"
+    prop-types "^15.6.0"
+    query-string "^6.6.0"
+    react-final-form "^6.3.0"
+    react-final-form-arrays "^3.1.1"
+
 "@folio/bulk-edit@>=1.0.0":
   version "5.0.1099000000001065"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000001065.tgz#160dee635a882e6dfbf5cd1c13c2816a34343849"
@@ -1439,10 +1478,9 @@
     react-final-form-arrays "^3.1.0"
     react-query "^3.39.3"
 
-"@folio/claims@>=1.0.0":
-  version "2.0.1099000000000256"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/claims/-/claims-2.0.1099000000000256.tgz#8c0c9876023a6ece2ba13a6f72b092e2be2c38d4"
-  integrity sha512-wxGsbj+TZFkh5T3mPSWrSZ+r0zCDc48CX1qLyjLtevsHaYaTSLWu8MZrf17qwkrMYj+VDPpiNOsS/fnEFJtDTw==
+"@folio/claims@https://github.com/slub/ui-claims#UICLAIM-25-multi-select-material-type-filter":
+  version "2.0.0"
+  resolved "https://github.com/slub/ui-claims#7b0eaab16e90513707d968d8af707c2fe10c9dff"
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     lodash "^4.17.21"
@@ -1873,10 +1911,9 @@
     react-query "^3.39.3"
     react-router-prop-types "^1.0.4"
 
-"@folio/orders@>=1.1.0":
-  version "9.0.1099000000000822"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.1099000000000822.tgz#c1f7c9895667d5f10542289e6034c73099133c20"
-  integrity sha512-9w2I18CJBQhecIFNHNqJh/WdkSXWsdUS5tWPXZkgAxmLXdmfc/zSYpoEwz4JImbKttDTJMQ6uDRH/FoFWTwPuQ==
+"@folio/orders@https://github.com/slub/ui-orders#dev2":
+  version "9.0.0"
+  resolved "https://github.com/slub/ui-orders#41889c6267f191a546736205c3a13451d06dfc87"
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.1.0"
@@ -1899,10 +1936,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
     "@folio/plugin-find-user" "^8.0.0"
 
-"@folio/organizations@>=1.0.0":
-  version "7.0.1099000000000193"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/organizations/-/organizations-7.0.1099000000000193.tgz#53fc93a1ca639c121463be62d79a323de416e568"
-  integrity sha512-b6FsM4FUyuGLFlAflnn0SC7lz/6iQnm3kUpq3yduz1zQ+vObGASNY2F4lxPP6To5X+97wjtTpUrbubgjK8DCKw==
+"@folio/organizations@https://github.com/slub/ui-organizations#dev2":
+  version "7.0.0"
+  resolved "https://github.com/slub/ui-organizations#d40d44e6da51c1c70c616c2893c17948ae7fbc50"
   dependencies:
     "@folio/plugin-find-organization" "^6.0.0"
     "@folio/stripes-acq-components" "~7.1.0"
@@ -2147,6 +2183,17 @@
   optionalDependencies:
     "@folio/plugin-find-organization" "^6.0.0"
 
+"@folio/plugin-select-application@>=1.0.0", "@folio/plugin-select-application@^2.0.0":
+  version "2.0.1099000000000149"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-select-application/-/plugin-select-application-2.0.1099000000000149.tgz#2ee4e67b3d683cb5ffe0940c036be504d406aa93"
+  integrity sha512-V+Vj983LxNMJMKhNC1pQZrlPWQgbuq78VEY/31hLSrh9NVNT0nLBCmlRan35sTZuTrBnhtjiJkOEROdGA9bzfA==
+  dependencies:
+    "@k-int/stripes-kint-components" "^5.1.1"
+    classnames "^2.2.5"
+    dom-helpers "^3.4.0"
+    lodash "^4.17.11"
+    prop-types "^15.6.0"
+
 "@folio/quick-marc@>=1.0.0":
   version "11.0.1099000000000505"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-11.0.1099000000000505.tgz#24cc50885d126f3e0e39bbe95aa08484fae7f3ec"
@@ -2358,6 +2405,17 @@
     prop-types "^15.6.0"
     query-string "^7.0.1"
     react-query "^3.39.3"
+
+"@folio/stripes-authorization-components@^2.0.0", "@folio/stripes-authorization-components@^2.0.1":
+  version "2.0.1099000000000442"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-authorization-components/-/stripes-authorization-components-2.0.1099000000000442.tgz#cd4383b07925a67869bcf2771846f6f54fd3a661"
+  integrity sha512-5dk48b8oi+EYtPUYDsuGzAd/LAfziAAHe1wFYECDqkQDL+PQMCe4Y6iO8Vdh7C5AD3OWPGvDwaL9wgnrSwTxHA==
+  dependencies:
+    "@folio/plugin-select-application" "^2.0.0"
+    classnames "^2.2.6"
+    lodash "^4.17.21"
+    prop-types "^15.7.2"
+    react-final-form "^6.3.0"
 
 "@folio/stripes-build@^1.0.0":
   version "1.1.1099000000000035"
@@ -2683,9 +2741,9 @@
     minimist "^1.2.0"
 
 "@folio/stripes-types@^3.0.0":
-  version "3.0.109900000000118"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-types/-/stripes-types-3.0.109900000000118.tgz#8bca9561ab6da81753ccb4cdaebca3a0cf2e8d1d"
-  integrity sha512-gXQMsyltJCQZNU0hp0zEiBua7vZ5Jt2c+050aydfyzveUjNQPcYqKLXjsU06vsoJLJcT+GCFpnqLFYARw6k/GQ==
+  version "3.0.1099000000000124"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-types/-/stripes-types-3.0.1099000000000124.tgz#de6e779dd47d079058ff2d21d2c969eff42a473f"
+  integrity sha512-XjUVBR0cEXID6TXV1qKTMiT9io36SSHgNBoqEb85k75h8f6Na/hiatktLwcazYW4PtWiomSR+FTrOx6443vYWQ==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.0.0"
     dayjs "^1.11.10"
@@ -3020,6 +3078,13 @@
   resolved "https://repository.folio.org/repository/npm-ci-all/@istanbuljs/schema/-/schema-0.1.3.tgz#e45e384e4b8ec16bce2fd903af78450f6bf7ec98"
   integrity sha512-ZXRY4jNvVgSVQ8DL3LTcakaAtXwTVUxE81hslsyD2AtoXW/wVob10HkOJ1X/pAlcI7D+2YoZKg5do8G/w6RYgA==
 
+"@jest/schemas@^29.6.3":
+  version "29.6.3"
+  resolved "https://registry.yarnpkg.com/@jest/schemas/-/schemas-29.6.3.tgz#430b5ce8a4e0044a7e3819663305a7b3091c8e03"
+  integrity sha512-mo5j5X+jIZmJQveBKeS/clAueipV7KgiX1vMgCxam1RNYiqE1w62n0/tJJnHtjW8ZHcQco5gY85jA3mi0L+nSA==
+  dependencies:
+    "@sinclair/typebox" "^0.27.8"
+
 "@jridgewell/gen-mapping@^0.3.12", "@jridgewell/gen-mapping@^0.3.5":
   version "0.3.13"
   resolved "https://repository.folio.org/repository/npm-ci-all/@jridgewell/gen-mapping/-/gen-mapping-0.3.13.tgz#6342a19f44347518c93e43b1ac69deb3c4656a1f"
@@ -3071,6 +3136,16 @@
   version "1.0.4"
   resolved "https://repository.folio.org/repository/npm-ci-all/@jsep-plugin/regex/-/regex-1.0.4.tgz#cb2fc423220fa71c609323b9ba7f7d344a755fcc"
   integrity sha512-q7qL4Mgjs1vByCaTnDFcBnV9HS7GVPJX5vyVoCgZHNSC9rjwIlmbXG5sUuorR5ndfHAIlJ8pVStxvjXHbNvtUg==
+
+"@k-int/stripes-kint-components@^5.0.0", "@k-int/stripes-kint-components@^5.1.1":
+  version "5.33.0"
+  resolved "https://registry.yarnpkg.com/@k-int/stripes-kint-components/-/stripes-kint-components-5.33.0.tgz#74ff6d1c0454f5cda29c9daca9eb6cf87614958f"
+  integrity sha512-AjS2LiHBaSLVfE50h2CF8d+m/P3ygQbsQkSu3fSAZa/Xn1OTFB3R6HtqmSknPt2PL8uKtLx7r7F2/TQ52EfmpQ==
+  dependencies:
+    "@rehooks/local-storage" "^2.4.4"
+    compose-function "^3.0.3"
+    react-resize-detector "^11.0.0"
+    zustand "^5.0.0"
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.28.3", "@k-int/stripes-kint-components@^5.30.0":
   version "5.31.4"
@@ -3287,6 +3362,11 @@
   version "2.4.4"
   resolved "https://repository.folio.org/repository/npm-ci-all/@rehooks/local-storage/-/local-storage-2.4.4.tgz#ccf40f60c2dcbab86dc88f9e3ea898d1fb8bea2d"
   integrity sha512-zE+kfOkG59n/1UTxdmbwktIosclr67Nlbf2MzUJ9mNtCSypVscNHeD1qT6JCSo5Pjj8DO893IKWNLJqKKzDL/Q==
+
+"@sinclair/typebox@^0.27.8":
+  version "0.27.10"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.27.10.tgz#beefe675f1853f73676aecc915b2bd2ac98c4fc6"
+  integrity sha512-MTBk/3jGLNB2tVxv6uLlFh1iu64iYOQ2PbdOSK3NW8JZsmlaOh2q6sdtKowBhfw8QFLmYNzTW4/oK4uATIi6ZA==
 
 "@sindresorhus/is@^5.2.0":
   version "5.6.0"
@@ -4054,6 +4134,11 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
+ansi-styles@^5.0.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-5.2.0.tgz#07449690ad45777d1924ac2abb2fc8895dba836b"
+  integrity sha512-Cxwpt2SfTzTtXcfOlzGEee8O+c+MmUgGrNiBcXnuWxuFJHe6a5Hz7qwhwe5OgaSYI0IJvkLqWX1ASG+cJOkEiA==
+
 ansi-styles@^6.1.0:
   version "6.2.3"
   resolved "https://repository.folio.org/repository/npm-ci-all/ansi-styles/-/ansi-styles-6.2.3.tgz#c044d5dcc521a076413472597a1acb1f103c4041"
@@ -4141,6 +4226,11 @@ autoprefixer@^10.4.13:
     fraction.js "^5.3.4"
     picocolors "^1.1.1"
     postcss-value-parser "^4.2.0"
+
+axe-core@4.9.1:
+  version "4.9.1"
+  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.9.1.tgz#fcd0f4496dad09e0c899b44f6c4bb7848da912ae"
+  integrity sha512-QbUdXJVTpvUTHU7871ppZkdOLBeGUKBQWHkHrvN2V9IQWGMt61zf3B45BtzjxEJzYuj0JBjBZP/hmYS/R9pmAw==
 
 b4a@^1.6.4:
   version "1.7.3"
@@ -4554,9 +4644,9 @@ capital-case@^1.0.4:
     tslib "^2.0.3"
     upper-case-first "^2.0.2"
 
-chalk@4, chalk@^4.1.0, chalk@^4.1.1:
+chalk@4, chalk@4.1.2, chalk@^4.0.0, chalk@^4.1.0, chalk@^4.1.1:
   version "4.1.2"
-  resolved "https://repository.folio.org/repository/npm-ci-all/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
   integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
   dependencies:
     ansi-styles "^4.1.0"
@@ -5374,6 +5464,11 @@ di@^0.0.1:
   version "0.0.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/di/-/di-0.0.1.tgz#806649326ceaa7caa3306d75d985ea2748ba913c"
   integrity sha512-uJaamHkagcZtHPqCIHZxnFrXlunQXgBOsZSUOWwFw31QJCAbyTBoHMW75YOTur5ZNx8pIeAKgf6GWIgaqqiLhA==
+
+diff-sequences@^29.6.3:
+  version "29.6.3"
+  resolved "https://registry.yarnpkg.com/diff-sequences/-/diff-sequences-29.6.3.tgz#4deaf894d11407c51efc8418012f9e70b84ea921"
+  integrity sha512-EjePK1srD3P08o2j4f0ExnylqRs5B9tJjcp9t1krH2qRi8CCdsYfwe9JgSLurFBWwq4uOlipzfk5fHNvwFKr8Q==
 
 diff@4.0.1:
   version "4.0.1"
@@ -7352,6 +7447,41 @@ istanbul-reports@^3.0.2, istanbul-reports@^3.1.4:
     html-escaper "^2.0.0"
     istanbul-lib-report "^3.0.0"
 
+jest-axe@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/jest-axe/-/jest-axe-9.0.0.tgz#9794dc0427f9f2c6a5224d30acece6183cefb2f2"
+  integrity sha512-Xt7O0+wIpW31lv0SO1wQZUTyJE7DEmnDEZeTt9/S9L5WUywxrv8BrgvTuQEqujtfaQOcJ70p4wg7UUgK1E2F5g==
+  dependencies:
+    axe-core "4.9.1"
+    chalk "4.1.2"
+    jest-matcher-utils "29.2.2"
+    lodash.merge "4.6.2"
+
+jest-diff@^29.2.1:
+  version "29.7.0"
+  resolved "https://registry.yarnpkg.com/jest-diff/-/jest-diff-29.7.0.tgz#017934a66ebb7ecf6f205e84699be10afd70458a"
+  integrity sha512-LMIgiIrhigmPrs03JHpxUh2yISK3vLFPkAodPeo0+BuF7wA2FoQbkEg1u8gBYBThncu7e1oEDUfIXVuTqLRUjw==
+  dependencies:
+    chalk "^4.0.0"
+    diff-sequences "^29.6.3"
+    jest-get-type "^29.6.3"
+    pretty-format "^29.7.0"
+
+jest-get-type@^29.2.0, jest-get-type@^29.6.3:
+  version "29.6.3"
+  resolved "https://registry.yarnpkg.com/jest-get-type/-/jest-get-type-29.6.3.tgz#36f499fdcea197c1045a127319c0481723908fd1"
+  integrity sha512-zrteXnqYxfQh7l5FHyL38jL39di8H8rHoecLH3JNxH3BwOrBsNeabdap5e0I23lD4HHI8W5VFBZqG4Eaq5LNcw==
+
+jest-matcher-utils@29.2.2:
+  version "29.2.2"
+  resolved "https://registry.yarnpkg.com/jest-matcher-utils/-/jest-matcher-utils-29.2.2.tgz#9202f8e8d3a54733266784ce7763e9a08688269c"
+  integrity sha512-4DkJ1sDPT+UX2MR7Y3od6KtvRi9Im1ZGLGgdLFLm4lPexbTaCgJW5NN3IOXlQHF7NSHY/VHhflQ+WoKtD/vyCw==
+  dependencies:
+    chalk "^4.0.0"
+    jest-diff "^29.2.1"
+    jest-get-type "^29.2.0"
+    pretty-format "^29.2.1"
+
 jest-worker@^27.4.5:
   version "27.5.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/jest-worker/-/jest-worker-27.5.1.tgz#8d146f0900e8973b106b6f73cc1e9a8cb86f8db0"
@@ -7790,6 +7920,11 @@ lodash.isequal@^4.5.0:
   version "4.5.0"
   resolved "https://repository.folio.org/repository/npm-ci-all/lodash.isequal/-/lodash.isequal-4.5.0.tgz#415c4478f2bcc30120c22ce10ed3226f7d3e18e0"
   integrity sha512-pDo3lu8Jhfjqls6GkMgpahsF9kCyayhgykjyLMNFTKWrpVdAQtYyB4muAMWozBB4ig/dtWAmsMxLEI8wuz+DYQ==
+
+lodash.merge@4.6.2:
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
+  integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
 
 lodash@^4.16.4, lodash@^4.17.11, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4, lodash@^4.17.5:
   version "4.17.23"
@@ -8920,6 +9055,15 @@ pretty-error@^4.0.0:
   dependencies:
     lodash "^4.17.20"
     renderkid "^3.0.0"
+
+pretty-format@^29.2.1, pretty-format@^29.7.0:
+  version "29.7.0"
+  resolved "https://registry.yarnpkg.com/pretty-format/-/pretty-format-29.7.0.tgz#ca42c758310f365bfa71a0bda0a807160b776812"
+  integrity sha512-Pdlw/oPxN+aXdmM9R00JVC9WVFoCLTKJvDVLgmJ+qAffBMxsV85l/Lu7sNx4zSzPyoL2euImuEwHhOXdEgNFZQ==
+  dependencies:
+    "@jest/schemas" "^29.6.3"
+    ansi-styles "^5.0.0"
+    react-is "^18.0.0"
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
