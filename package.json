@@ -64,7 +64,7 @@
     "@folio/plugin-find-license": ">=2.0.0",
     "@folio/plugin-find-organization": ">=1.0.0",
     "@folio/plugin-find-package-title": ">=1.0.0",
-    "@folio/plugin-find-po-line": ">=1.0.0",
+    "@folio/plugin-find-po-line": "https://github.com/slub/ui-plugin-find-po-line#transmission-method-filter",
     "@folio/plugin-find-user": ">=1.3.0",
     "@folio/plugin-query-builder": ">=1.0.0",
     "@folio/quick-marc": ">=1.0.0",
@@ -118,7 +118,6 @@
     "moment": "~2.29.0",
     "redux-form": "^8.0.0",
     "@folio/stripes-smart-components": "https://github.com/slub/stripes-smart-components#lookup-custom-field-poc",
-    "@folio/stripes-acq-components": "https://github.com/slub/stripes-acq-components#lookup-custom-field-poc",
-    "@folio/plugin-find-po-line": "https://github.com/slub/ui-plugin-find-po-line#transmission-method-filter"
+    "@folio/stripes-acq-components": "https://github.com/slub/stripes-acq-components#lookup-custom-field-poc"
   }
 }
