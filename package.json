@@ -118,6 +118,7 @@
     "moment": "~2.29.0",
     "redux-form": "^8.0.0",
     "@folio/stripes-smart-components": "https://github.com/slub/stripes-smart-components#lookup-custom-field-poc",
-    "@folio/stripes-acq-components": "https://github.com/slub/stripes-acq-components#lookup-custom-field-poc"
+    "@folio/stripes-acq-components": "https://github.com/slub/stripes-acq-components#lookup-custom-field-poc",
+    "@folio/plugin-find-po-line": "https://github.com/slub/ui-plugin-find-po-line#transmission-method-filter"
   }
 }
