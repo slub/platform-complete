@@ -117,7 +117,7 @@
     "minimist": "^1.2.3",
     "moment": "~2.29.0",
     "redux-form": "^8.0.0",
-    "@folio/stripes-smart-components": "https://github.com/slub/stripes-smart-components#lookup-custom-field-poc",
+    "@folio/stripes-smart-components": "https://github.com/slub/stripes-smart-components#FCFIELDS-88-add-lookup-custom-field-type",
     "@folio/stripes-acq-components": "https://github.com/slub/stripes-acq-components#lookup-custom-field-poc",
     "@folio/plugin-find-po-line": "https://github.com/slub/ui-plugin-find-po-line#transmission-method-filter",
     "@folio/stripes-template-editor": "https://github.com/slub/stripes-template-editor#STTEDIT-6-send-template-resolver"
