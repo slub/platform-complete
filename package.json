@@ -120,7 +120,6 @@
     "@folio/stripes-smart-components": "https://github.com/slub/stripes-smart-components#dev2",
     "@folio/stripes-acq-components": "https://github.com/slub/stripes-acq-components#lookup-custom-field-poc",
     "@folio/plugin-find-po-line": "https://github.com/slub/ui-plugin-find-po-line#transmission-method-filter",
-    "@folio/stripes-template-editor": "https://github.com/slub/stripes-template-editor#STTEDIT-6-send-template-resolver",
-    "compute-scroll-into-view": "3.1.1"
+    "@folio/stripes-template-editor": "https://github.com/slub/stripes-template-editor#STTEDIT-6-send-template-resolver"
   }
 }
